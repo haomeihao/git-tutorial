@@ -1,4 +1,4 @@
-## git-tutorial
+## First: Git Tutorial
 ``` 
 git operation tutorial
 ```
@@ -11,3 +11,17 @@ git operation tutorial
 > git remote add origin https://xxx.git
 > git push -u origin master
 ```
+
+
+## Second: Linux Tutorial
+``` 
+linux command tutorial
+```
+- please see linux directory
+
+
+## Third: Docker Tutorial
+``` 
+docker command tutorial
+```
+- please see docker directory
