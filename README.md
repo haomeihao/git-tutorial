@@ -11,7 +11,7 @@ git operation tutorial
 > git remote add origin https://xxx.git
 > git push -u origin master
 
-> git checkout -b branchN
+> git checkout -b branchName
 ```
 
 
