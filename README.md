@@ -10,6 +10,8 @@ git operation tutorial
 > git commit -m "init commit"
 > git remote add origin https://xxx.git
 > git push -u origin master
+
+> git checkout -b branchN
 ```
 
 
