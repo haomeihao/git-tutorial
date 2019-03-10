@@ -8,8 +8,8 @@ git operation tutorial
 > git init
 > git add .
 > git commit -m "init commit"
-> git remote add origin https://xxx.git
-> git push -u origin master
+> git remote add origin/master https://xxx.git
+> git push -u origin/master master
 
 > git checkout -b branchName
 ```
