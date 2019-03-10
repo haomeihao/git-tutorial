@@ -12,6 +12,10 @@ git operation tutorial
 > git push -u origin/master master
 
 > git checkout -b branchName
+> git checkout branchName
+
+> git branch --set-upstream-to=origin/vant-example vant-example
+> git branch --set-upstream-to=origin/master master
 ```
 
 
